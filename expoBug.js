@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an unusual error during the linking process.  The error message was vague, simply stating 'Linking failed'.  The project built fine locally, but failed on CI/CD (GitHub Actions) using the same Expo CLI version.  There were no errors in the build logs to point to the issue.
